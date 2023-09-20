@@ -1,0 +1,14 @@
+/* Este arquivo css é importante pois ele irá padronizar 
+o meu layout para que não fique diferente em nos navegadores */
+
+/* Ctrl + K + C -> Transforma em comentario o código selecionado*/
+
+
+/* INICIO DO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*tamanho da caixa*/
+    font-family: 'Press Start 2P', cursive;  
+    /* font-family: 'Roboto Mono', monospace; */
+}
