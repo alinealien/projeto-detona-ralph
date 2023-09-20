@@ -29,10 +29,11 @@ Nosso setup inicia com a organização/criação das nossas pastas e arquivos, d
 
 **ATENÇÃO:**
 
-1. É importante criamos nossas pastas em um local adequado, pode ser na área de trabalho, em documentos ou onde vocês acharem melhor. Contando que facilite a sua manipulação, lembre-se que iremos subir nosso projeto no github, então, é importante que estejamos familiarizados com estruturas de pastas. Nomes e estruturas são particulares, deseja criar a estrutura das pastas e arquivos de outra forma? Tudo certo, também.
+É importante criamos nossas pastas em um local adequado, pode ser na área de trabalho, em documentos ou onde vocês acharem melhor. Contando que facilite a sua manipulação, lembre-se que iremos subir nosso projeto no github, então, é importante que estejamos familiarizados com estruturas de pastas. Nomes e estruturas são particulares, deseja criar a estrutura das pastas e arquivos de outra forma? Tudo certo, também.
 
-2. Detalhes dos arquivos criados foram adicionados em seus respectivos arquivos.  
-3. Em meu projeto a pasta **script** está no singular, o expert DIO, criou sua pasta no plural, sendo **scripts**. Então, visitante, é bom ficar atento para não ocorrer divergências e erros. 
+Detalhes dos arquivos criados foram adicionados em seus respectivos arquivos.  
+
+Em meu projeto a pasta **script** está no singular, o expert DIO, criou sua pasta no plural, sendo **scripts**. Então, visitante, é bom ficar atento para não ocorrer divergências e erros. 
 
 
 
