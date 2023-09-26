@@ -4,11 +4,21 @@ Olá visitante, espero que estejas bem!!
 
 Este repositório foi desenvolvido durante o bootcamp **Desenvolvimento de Jogos** da DIO em parceria com o iFood. Neste projeto, desenvolvi um game **Detona Ralph** utilizando as bases do frontend, JavaScript, CSS e HTML. Durante o desenvolvimento do projeto, utilizamos eventos JavaScript e manipulação de áudios nos browsers.
 
-**Como jogar:**
+A baixo, deixo um resumo das aulas e dicas que aprendemos durante a jornada de estudos.
+
+**Como Jogar:**
+
+1. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
+
+2. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+
+_____________
+
+1. [TOC]
 
 _____________________
 
-### **Setup do Projeto**
+### 1. **Setup do Projeto**
 
 Nosso setup inicia com a organização/criação das nossas pastas e arquivos, dessa forma, criamos:
 
@@ -43,7 +53,7 @@ Detalhes dos arquivos criados foram adicionados em seus respectivos arquivos.
 
 __________________________
 
-### Estilizando seu Projeto
+### 2. Estilizando seu Projeto
 
 Na fase inicial da estilização, criamos algumas divs, sendo:
 
@@ -62,7 +72,7 @@ Além de iniciarmos algumas definições no CSS em main. Também aprendemos algu
 
 _______________
 
-### Construindo HTML com o Emmet
+### 2. Construindo HTML com o Emmet
 
 Emmet é uma poderosa e eficiente ferramenta de produtividade para  desenvolvedores web que permite escrever código HTML e CSS de forma mais rápida e fácil.
 
@@ -86,7 +96,7 @@ Acima deixei alguns tópicos de resumo sobre o emmet, no entanto, em nosso proje
 
 __________________
 
-### Criando os Painéis Principais e Elementos CSS
+### 3. Criando os Painéis Principais e Elementos CSS
 
 Nessas aulas, focamos em desenvolver nossos painéis no css. O detalhamento do que foi feito, está no código em questão. Também adicionamos as imagens e o áudio que será utilizado no projeto.
 
@@ -131,19 +141,11 @@ Aqui estão alguns exemplos de como você pode usar `nth-child()`:
 :nth-child(3n+4)
 ```
 
-_________
-
-### 
 
 
+________
 
-
-
-
-
-_____________
-
-### Variáveis view e values
+### 4. Variáveis view e values
 
 
 
@@ -153,7 +155,7 @@ _____________
 
 ____________
 
-### Listener de Hitbox
+### 5. Listener de Hitbox
 
 
 
@@ -163,7 +165,7 @@ ____________
 
 __________
 
-### Actions
+### 6. Actions
 
 
 
@@ -173,7 +175,7 @@ __________
 
 ____________
 
-### Áudios
+### 7. Áudios
 
 
 
