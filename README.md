@@ -14,7 +14,7 @@ A baixo, deixo um resumo das aulas e dicas que aprendemos durante a jornada de e
 
 _____________
 
-1. [TOC]
+[TOC]
 
 _____________________
 
