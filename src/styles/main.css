@@ -22,5 +22,16 @@ margin-top: 1rem;
 display: flex;
 align-items: center;
 justify-content: center;
-border: 1px solid red;
+border: 1px solid #ff0000;
+}
+
+.square{
+height: 150px;
+width: 150px;
+border: 1px solid #000000;
+background-color: #00ffff;
+}
+
+.enemy{
+    background-color: #ff0000   ;
 }
