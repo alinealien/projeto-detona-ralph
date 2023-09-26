@@ -82,19 +82,58 @@ No VS Code, o Emmet está integrado e pode ser facilmente usado para gerar códi
 
 Acima deixei alguns tópicos de resumo sobre o emmet, no entanto, em nosso projeto o expert utilizou alguns comandos específicos para facilitar a criação dos nossos **panel rows**, o que está detalhado no código do projeto, então, para mais detalhes do que foi implementado com o emmet no jogo as especificidades estão no código geral.
 
+**-> Emmet Realizado:**  .panel-row>.square[id="0"]*3 
+
 __________________
 
-### Criando os Painéis Principais
+### Criando os Painéis Principais e Elementos CSS
 
+Nessas aulas, focamos em desenvolver nossos painéis no css. O detalhamento do que foi feito, está no código em questão. Também adicionamos as imagens e o áudio que será utilizado no projeto.
 
+Um dica valiosa aprendida é a utilização da função `nth-child()` que é usada para selecionar elementos com base na sua posição em relação aos irmãos dentro de um elemento pai. Essa pseudo-classe permite que  você selecione elementos com base em uma fórmula matemática que  corresponde à posição do elemento filho em relação aos outros elementos  filhos do mesmo pai. Ela é frequentemente usada em combinação com  seletores de tipo ou classe para aplicar estilos a elementos específicos de um conjunto de elementos.
 
+A sintaxe básica da pseudo-classe `nth-child()` é a seguinte:
 
+`:nth-child(an + b)`
 
+- `n` é um número inteiro que representa a posição do elemento em relação aos irmãos.
+- `a` e `b` são números inteiros opcionais que você pode usar em sua fórmula.
 
+Aqui estão alguns exemplos de como você pode usar `nth-child()`:
+
+1. Selecione todos os elementos filhos pares de um elemento pai:
+
+```
+:nth-child(even)
+```
+
+2. Selecione todos os elementos filhos ímpares de um elemento pai:
+
+```
+:nth-child(odd)
+```
+
+3. Selecione o terceiro elemento filho de um elemento pai:
+
+```
+:nth-child(3)
+```
+
+4. Selecione todos os elementos filhos a cada 2 elementos, começando pelo segundo elemento:
+
+```
+:nth-child(2n+2)
+```
+
+5. Selecione todos os elementos filhos a cada 3 elementos, começando pelo quarto elemento:
+
+```
+:nth-child(3n+4)
+```
 
 _________
 
-### Elementos CSS
+### 
 
 
 
