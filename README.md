@@ -20,17 +20,17 @@ _____________
 
 2. [Estilizando seu Projeto](https://github.com/alinealien/projeto-detona-ralph#2-estilizando-seu-projeto)
 
-3. [Construindo HTML com o Emmet](https://github.com/alinealien/projeto-detona-ralph#2-construindo-html-com-o-emmet)
+3. [Construindo HTML com o Emmet](https://github.com/alinealien/projeto-detona-ralph#3-construindo-html-com-o-emmet)
 
-4. [Criando os Painéis Principais e Elementos CSS](https://github.com/alinealien/projeto-detona-ralph#3-criando-os-pain%C3%A9is-principais-e-elementos-css)
+4. [Criando os Painéis Principais e Elementos CSS](https://github.com/alinealien/projeto-detona-ralph#4-criando-os-pain%C3%A9is-principais-e-elementos-css)
 
-5. Variáveis View e Values
+5. [Variáveis View e Values](https://github.com/alinealien/projeto-detona-ralph#5-vari%C3%A1veis-view-e-values)
 
-6.  Listener de Hitbox;
+6.  [Listener de Hitbox](https://github.com/alinealien/projeto-detona-ralph#6-listener-de-hitbox)
 
-7. Actions;
+7. [Actions](https://github.com/alinealien/projeto-detona-ralph#7-actions)
 
-8. Áudios;
+8. [Áudios](https://github.com/alinealien/projeto-detona-ralph#8-%C3%A1udios)
 
    
 
