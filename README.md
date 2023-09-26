@@ -16,19 +16,21 @@ _____________
 
 ### Índice
 
-1. Setup do Projeto;
+1. [Setup do Projeto](https://github.com/alinealien/projeto-detona-ralph#1-setup-do-projeto)
 
-2. Estilizando seu Projeto;
+2. [Estilizando seu Projeto](https://github.com/alinealien/projeto-detona-ralph#2-estilizando-seu-projeto)
 
-3. Criando os Painéis Principais e Elementos CSS;
+3. [Construindo HTML com o Emmet](https://github.com/alinealien/projeto-detona-ralph#2-construindo-html-com-o-emmet)
 
-4. Variáveis view e values;
+4. [Criando os Painéis Principais e Elementos CSS](https://github.com/alinealien/projeto-detona-ralph#3-criando-os-pain%C3%A9is-principais-e-elementos-css)
 
-5.  Listener de Hitbox;
+5. Variáveis View e Values
 
-6. Actions;
+6.  Listener de Hitbox;
 
-7. Áudios;
+7. Actions;
+
+8. Áudios;
 
    
 
@@ -88,7 +90,7 @@ Além de iniciarmos algumas definições no CSS em main. Também aprendemos algu
 
 _______________
 
-### 2. Construindo HTML com o Emmet
+### 3. Construindo HTML com o Emmet
 
 Emmet é uma poderosa e eficiente ferramenta de produtividade para  desenvolvedores web que permite escrever código HTML e CSS de forma mais rápida e fácil.
 
@@ -112,7 +114,7 @@ Acima deixei alguns tópicos de resumo sobre o emmet, no entanto, em nosso proje
 
 __________________
 
-### 3. Criando os Painéis Principais e Elementos CSS
+### 4. Criando os Painéis Principais e Elementos CSS
 
 Nessas aulas, focamos em desenvolver nossos painéis no css. O detalhamento do que foi feito, está no código em questão. Também adicionamos as imagens e o áudio que será utilizado no projeto.
 
@@ -161,7 +163,7 @@ Aqui estão alguns exemplos de como você pode usar `nth-child()`:
 
 ________
 
-### 4. Variáveis view e values
+### 5. Variáveis view e values
 
 
 
@@ -171,7 +173,7 @@ ________
 
 ____________
 
-### 5. Listener de Hitbox
+### 6. Listener de Hitbox
 
 
 
@@ -181,7 +183,7 @@ ____________
 
 __________
 
-### 6. Actions
+### 7. Actions
 
 
 
@@ -191,7 +193,7 @@ __________
 
 ____________
 
-### 7. Áudios
+### 8. Áudios
 
 
 
