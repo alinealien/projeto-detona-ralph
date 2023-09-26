@@ -14,7 +14,23 @@ A baixo, deixo um resumo das aulas e dicas que aprendemos durante a jornada de e
 
 _____________
 
-[TOC]
+### Índice
+
+1. Setup do Projeto;
+
+2. Estilizando seu Projeto;
+
+3. Criando os Painéis Principais e Elementos CSS;
+
+4. Variáveis view e values;
+
+5.  Listener de Hitbox;
+
+6. Actions;
+
+7. Áudios;
+
+   
 
 _____________________
 
