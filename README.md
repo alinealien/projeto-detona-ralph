@@ -163,9 +163,25 @@ Aqui estão alguns exemplos de como você pode usar `nth-child()`:
 
 ________
 
-### 5. Variáveis view e values
+### 5. Variáveis View e Values
+
+Nos jogos existem muitas variáveis e quando observamos a mecânica por trás deles, observamos que muitas dessas mecânicas são semelhantes independente do jogo, **embora**, haja particularidades específicas como comentado no exemplo da aula(botão acelerar).
+
+**Variáveis View:**
+
+Manipulação visual.
+
+São elementos cruciais nos jogos que afetam a forma como os jogadores  percebem o ambiente virtual, incluindo gráficos, interface do usuário e  informações visuais que influenciam a jogabilidade.
+
+**Variáveis Values:**
+
+Variáveis para alterar elementos não visuais, apenas valores.
+
+Essas variáveis representam números, pontuações e dados numéricos que  desempenham um papel vital no jogo, afetando o desempenho do jogador,  recompensas e progresso dentro do mundo virtual.
 
 
+
+**Gerenciamento de Estados do Projeto:**
 
 
 
