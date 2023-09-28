@@ -181,21 +181,17 @@ Essas variáveis representam números, pontuações e dados numéricos que  dese
 
 
 
-**Gerenciamento de Estados do Projeto:**
-
-
-
-
-
 ____________
 
 ### 6. Listener de Hitbox
 
 
 
+Um listener de hitbox no JavaScript é uma parte crucial do  desenvolvimento de jogos, pois permite que detectemos colisões ou interações entre elementos do jogo e uma região determinada (hitbox). As hitboxes são áreas invisíveis associadas a objetos do jogo, usadas para definir áreas de contato.
 
+No jogo em desenvolvimento, utilizamos o Listener de Hitbox para quando o jogador clicar na tela ele guardar a ação e assim atribuir um valor a cada clique sob o Ralf. É bem interessante e os detalhes estão no código de como implementar o **addListenerHitBox**
 
-
+Há... também adicionamos o **hitPosition** e **result** em **values**.
 
 __________
 
