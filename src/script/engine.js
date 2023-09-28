@@ -36,6 +36,12 @@ function countDown(){
 
 }
 
+function playSound(audioName){
+    let audio = new Audio(`./src/audios/${audioName}.m4a`);
+    audio.volume = 0.2;
+    audio.play();
+}
+
 //Quadrados aleatorios que irá sortear o inimigo
 function randomSquare() {
 
@@ -70,6 +76,7 @@ function addListenerHitBox() {
             state.values.result++
             state.view.score.textContent = state.values.result;
             state.values.hitPosition = null;
+            playSound("hit");
            }
         })
 
