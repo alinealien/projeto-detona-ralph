@@ -197,9 +197,11 @@ __________
 
 ### 7. Actions
 
+Em desenvolvimento de jogos com JavaScript, as "actions" são programadas para permitir que personagens, objetos ou elementos do jogo realizem ações específicas. Essas ações podem incluir movimento, ataque, salto, interação com itens e outros comportamentos que tornam o jogo interativo e dinâmico.
 
+As "actions" são geralmente acionadas em resposta a eventos, como pressionar uma tecla, clicar com o mouse ou receber um comando do jogador. Os desenvolvedores implementam lógica de programação para que, quando um evento ocorrer, o JavaScript execute a ação correspondente.
 
-
+Por exemplo, ao pressionar a tecla de seta para a direita, um personagem pode realizar a "ação" de mover-se para a direita no jogo. Essa capacidade de controlar as ações dos personagens e objetos torna possível criar jogos envolventes e emocionantes.
 
 
 
