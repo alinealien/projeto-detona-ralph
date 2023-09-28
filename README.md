@@ -185,9 +185,7 @@ ____________
 
 ### 6. Listener de Hitbox
 
-
-
-Um listener de hitbox no JavaScript é uma parte crucial do  desenvolvimento de jogos, pois permite que detectemos colisões ou interações entre elementos do jogo e uma região determinada (hitbox). As hitboxes são áreas invisíveis associadas a objetos do jogo, usadas para definir áreas de contato.
+Um **listener de hitbox** no JavaScript é uma parte crucial do  desenvolvimento de jogos, pois permite que detectemos colisões ou interações entre elementos do jogo e uma região determinada (hitbox). As hitboxes são áreas invisíveis associadas a objetos do jogo, usadas para definir áreas de contato.
 
 No jogo em desenvolvimento, utilizamos o Listener de Hitbox para quando o jogador clicar na tela ele guardar a ação e assim atribuir um valor a cada clique sob o Ralf. É bem interessante e os detalhes estão no código de como implementar o **addListenerHitBox**
 
@@ -199,7 +197,7 @@ __________
 
 Em desenvolvimento de jogos com JavaScript, as "actions" são programadas para permitir que personagens, objetos ou elementos do jogo realizem ações específicas. Essas ações podem incluir movimento, ataque, salto, interação com itens e outros comportamentos que tornam o jogo interativo e dinâmico.
 
-As "actions" são geralmente acionadas em resposta a eventos, como pressionar uma tecla, clicar com o mouse ou receber um comando do jogador. Os desenvolvedores implementam lógica de programação para que, quando um evento ocorrer, o JavaScript execute a ação correspondente.
+As **"actions"** são geralmente acionadas em resposta a eventos, como pressionar uma tecla, clicar com o mouse ou receber um comando do jogador. Os desenvolvedores implementam lógica de programação para que, quando um evento ocorrer, o JavaScript execute a ação correspondente.
 
 Por exemplo, ao pressionar a tecla de seta para a direita, um personagem pode realizar a "ação" de mover-se para a direita no jogo. Essa capacidade de controlar as ações dos personagens e objetos torna possível criar jogos envolventes e emocionantes.
 
@@ -214,4 +212,3 @@ No desenvolvimento web com JavaScript, é possível incorporar áudios para melh
 Para trabalhar com áudios em JavaScript, os desenvolvedores podem usar a API de Áudio do HTML5, que fornece métodos para carregar, reproduzir, pausar, parar e controlar o volume dos áudios. Eles podem incorporar arquivos de áudio em formatos como MP3, WAV ou Ogg.
 
 As aplicações de áudio em jogos incluem a reprodução de trilhas sonoras, efeitos sonoros para eventos do jogo (como disparos ou colisões) e feedback auditivo para ações do jogador. A sincronização precisa do áudio com os eventos do jogo é fundamental para criar uma experiência de jogo envolvente.
-
